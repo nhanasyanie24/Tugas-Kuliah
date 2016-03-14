@@ -1,11 +1,11 @@
 Nama	: Tsana’ Arsyani </br>
 Nim	    : 13.111.3891 </br>
-Kelas	: TI-B Pagi </br>
+Kelas	: TP-B Pagi </br>
 
-1. Baca artikel yang ditulis oleh Turing di majalah Computing Machinery and Intelligence pada tahun 1950 di alamat ini: http://www.loebner.net/Prizef/TuringArticle.html. Kemudian tuliskan sebuah artikel yang berisi argumentasi anda. 
-•	Apakah anda setuju atau tidak dengan pendapat Turing?
-•	Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
-•	Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?
+1. Baca artikel yang ditulis oleh Turing di majalah Computing Machinery and Intelligence pada tahun 1950 di alamat ini: http://www.loebner.net/Prizef/TuringArticle.html. Kemudian tuliskan sebuah artikel yang berisi argumentasi anda.</br> 
+<p>• Apakah anda setuju atau tidak dengan pendapat Turing?</p>
+<p>• Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?</p>
+<p>• Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?</p>
 Jawab:
 	Setelah membaca artikel di internet yang berjudul “Computing Machinery and Intelligence” yang ditulis oleh Alan Turing pada sebuah majalah pada tahun 1950, artikel tersebut mencoba menjelaskan sebuah pertanyan “Dapatkah mesin berpikir dan bertindak seperti manusia?”. Sebelum menjelaskan bagaimana mesin bisa berpikir dan bertindak seperti manusia, Alan Turing memulai untuk mendifinisikan apa arti “mesin” melalui beberapa contoh kasus.
 	Setelah mendapatkan definisinya, Alan Turing mulai untuk merangkup beberapa alasan dari berbagai sudut pandang. Intisari yang dapat saya ambil dari kesimpulan yang telah dibuat oleh Alan Turing adalah: Alan mencoba mematahkan beberapa pendapat dari beberapa golongan yang salah satu diantaranya meyakini bahwa “mesin tidak dapat berpikir seperti manusia dikarenakan jika mesin mampu untuk berpikir seperti hal nya manusia, maka hal tersebut kan sangat mengerikan dan mengancam populasi manusia yang dicap sebagai mahluk terpintar di dunia”. Menurut Alan, pendapat yang seperti itu hanya dapat menghambat perkembangan mesin. Dengan terciptanya mesin yang memiliki kecerdasan, diharapkan mampu berpikir dan bertindak seperti manusia bukan menjadi atau menggantikan manusia, sehingga mampu meringankan pekerjaan manusia.
