@@ -1,6 +1,6 @@
-Nama	: Tsana’ Arsyani
-Nim	: 13.111.3891
-Kelas	: TI-B Pagi
+Nama	: Tsana’ Arsyani </br>
+Nim	    : 13.111.3891 </br>
+Kelas	: TI-B Pagi </br>
 
 1. Baca artikel yang ditulis oleh Turing di majalah Computing Machinery and Intelligence pada tahun 1950 di alamat ini: http://www.loebner.net/Prizef/TuringArticle.html. Kemudian tuliskan sebuah artikel yang berisi argumentasi anda. 
 •	Apakah anda setuju atau tidak dengan pendapat Turing?
